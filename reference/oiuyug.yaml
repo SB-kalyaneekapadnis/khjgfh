@@ -4,6 +4,7 @@ x-stoplight:
 info:
   title: oiuyug
   version: '1.0'
+  description: ;kjhgf
 servers:
   - url: 'http://localhost:3000'
 paths:
